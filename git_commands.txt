@@ -1,0 +1,14 @@
+git config user.name
+git config user.email
+git status
+git remote -v
+git add file_one.txt
+git add file_one.txt file_two.txt
+git add .
+git remote add origin https://token@github.com................
+git remote -v
+git commit -m ""
+git fetch
+git checkout origin/master
+git switch master
+git pull
